@@ -1,12 +1,13 @@
+### Welcome to my GitHub profile!
 <p>
-  My name is Vinay and I am a Engineer with diverse background ranging from Telecom, Networking and Software Engineering. I specialize in JavaScript, HTML, and CSS. I'm a full time employee of Facebook and always looking to build cool apps and work on side projects of mine.
+  My name is Vinay and I am an Engineer with diverse background ranging from Telecom, Networking and Software Engineering. I specialize in JavaScript, HTML, and CSS. I'm a full time employee of Facebook and always looking to build cool apps and work on side projects of mine.
 </p>
 
 ### Github stats
 ![Vinay's github stats](https://github-readme-stats.vercel.app/api?username=vinayaachar&count_private=true&show_icons=true&theme=tokyonight)
 
 
-### Top Lnaguages 
+### Top Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayaachar)](https://github.com/vinayaachar/github-readme-stats)
 
 
