@@ -7,10 +7,6 @@
 ![Vinay's github stats](https://github-readme-stats.vercel.app/api?username=vinayaachar&count_private=true&show_icons=true&theme=nightowl)
 
 
-### Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayaachar)](https://github.com/vinayaachar/github-readme-stats)
-
-
 ### Tech Stack
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge" />
@@ -22,6 +18,11 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
  </p>
+ 
+
+### Top Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayaachar)](https://github.com/vinayaachar/github-readme-stats)
+
 
 ### Connect with me!
 
