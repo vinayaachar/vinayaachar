@@ -4,11 +4,11 @@
 </p>
 
 ### Github stats
-![Vinay's github stats](https://github-readme-stats.vercel.app/api?username=vinayaachar&count_private=true&show_icons=true&theme=tokyonight)
+![Vinay's github stats](https://github-readme-stats.vercel.app/api?username=vinayaachar&count_private=true&show_icons=true&theme=nightowl)
 
 
 ### Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayaachar)](https://github.com/vinayaachar/github-readme-stats&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayaachar)](https://github.com/vinayaachar/github-readme-stats)
 
 
 ### Tech Stack
