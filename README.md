@@ -8,7 +8,7 @@
 
 
 ### Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayaachar)](https://github.com/vinayaachar/github-readme-stats&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayaachar)](https://github.com/vinayaachar/github-readme-stats&theme=tokyonight)
 
 
 ### Tech Stack
